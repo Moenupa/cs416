@@ -1,0 +1,22 @@
+[
+  {
+    "displayName" : "TankBase.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "e84c3e9d6aae2329c348fb4d00e2c782"
+  },
+  {
+    "displayName" : "TankCockpit.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "95f537f8ff5e9508cb86ed26ccb94ed0"
+  },
+  {
+    "displayName" : "tankshot.caf",
+    "libraryIdentifier" : "34feb4113076b98b0fd60c61289459b9",
+    "format" : "audio"
+  },
+  {
+    "libraryIdentifier" : "8ae4df30294c70058f54cceeee4c5a12",
+    "displayName" : "tankshot.caf",
+    "format" : "audio"
+  }
+]
